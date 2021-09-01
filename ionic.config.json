@@ -1,0 +1,8 @@
+{
+  "name": "Forum",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "f832186b"
+}
