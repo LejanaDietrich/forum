@@ -1,1 +1,1 @@
-Angular experiment implementing simple odular forum for browser and mobile
+Angular experiment implementing simple modular forum for browser and mobile
